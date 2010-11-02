@@ -1,0 +1,10 @@
+With this tool you can use wildcards to search your iTunes library.
+
+- TODO LIST -
+ * add feature to delete items
+ * add feature to search playlists
+ * add feature to add music manually
+
+Usage: luXifer --list   [-name search] [-genre search]
+                        [-artist search] [-tid trackid]
+                        [-purchased y|n]
