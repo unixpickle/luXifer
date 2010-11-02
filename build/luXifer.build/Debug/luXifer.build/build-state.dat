@@ -1,0 +1,207 @@
+TluXifer
+v7
+r0
+t310354537.660544
+cCheck dependencies
+cProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/luXifer_Prefix-eghhlvrvggzhoahgvpfragrxauqq/luXifer_Prefix.pch.gch luXifer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/luXifer.o /Users/alex/Desktop/luXifer/luXifer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesLibrary.o /Users/alex/Desktop/luXifer/ANiTunesLibrary.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesTrack.o /Users/alex/Desktop/luXifer/ANiTunesTrack.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesPlaylist.o /Users/alex/Desktop/luXifer/ANiTunesPlaylist.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/alex/Desktop/luXifer/build/Debug/luXifer normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/fnmatch.h
+c000000004AC59C810000000000000E12
+t1254464641
+s3602
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004AC59C82000000000000563E
+t1254464642
+s22078
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C11730A0000000000B37440
+t1276211978
+s11760704
+
+N/Users/alex/Desktop/luXifer/ANiTunesLibrary.h
+c000000004CCF39220000000000000263
+t1288648994
+s611
+i<Cocoa/Cocoa.h>
+i"ANiTunesTrack.h"
+i"ANiTunesPlaylist.h"
+
+N/Users/alex/Desktop/luXifer/ANiTunesLibrary.m
+c000000004CCF3D470000000000000BF5
+t1288650055
+s3061
+i"ANiTunesLibrary.h"
+i<fnmatch.h>
+
+N/Users/alex/Desktop/luXifer/ANiTunesPlaylist.h
+c000000004CCF2F4800000000000001CB
+t1288646472
+s459
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/Desktop/luXifer/ANiTunesPlaylist.m
+c000000004CCF2FA5000000000000026F
+t1288646565
+s623
+i"ANiTunesPlaylist.h"
+
+N/Users/alex/Desktop/luXifer/ANiTunesTrack.h
+c000000004CCF2BAB00000000000003F3
+t1288645547
+s1011
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/Desktop/luXifer/ANiTunesTrack.m
+c000000004CCF36270000000000000627
+t1288648231
+s1575
+i"ANiTunesTrack.h"
+
+N/Users/alex/Desktop/luXifer/build/Debug/luXifer
+t1288661737
+s31152
+
+N/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesLibrary.o
+t1288650056
+s21772
+
+N/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesPlaylist.o
+t1288647692
+s13932
+
+N/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesTrack.o
+t1288648301
+s23880
+
+N/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/luXifer.LinkFileList
+c000000004CCF33CF00000000000001A7
+t1288647631
+s423
+
+N/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/luXifer.o
+t1288661737
+s14584
+
+N/Users/alex/Desktop/luXifer/luXifer.m
+c000000004CCF6AE60000000000000B67
+t1288661734
+s2919
+i<Foundation/Foundation.h>
+i"ANiTunesLibrary.h"
+
+N/Users/alex/Desktop/luXifer/luXifer_Prefix.pch
+c000000004CCF299C000000000000009C
+t1288645020
+s156
+i<Foundation/Foundation.h>
+
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/luXifer_Prefix-eghhlvrvggzhoahgvpfragrxauqq/luXifer_Prefix.pch.gch
+t1288647691
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310354536#310354536#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesLibrary.o /Users/alex/Desktop/luXifer/ANiTunesLibrary.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310342856.008251
+e310342856.486646
+r1
+xCompileC
+xbuild/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesLibrary.o
+x/Users/alex/Desktop/luXifer/ANiTunesLibrary.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/alex/Desktop/luXifer/ANiTunesLibrary.m310342856#310342856#0(0"0(0#0#45"/Users/alex/Desktop/luXifer/ANiTunesLibrary.m8622546016#1351"    cd /Users/alex/Desktop/luXifer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-generated-files.hmap -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-own-target-headers.hmap -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-all-target-headers.hmap -iquote /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-project-headers.hmap -F/Users/alex/Desktop/luXifer/build/Debug -I/Users/alex/Desktop/luXifer/build/Debug/include -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/DerivedSources/x86_64 -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/luXifer_Prefix-eghhlvrvggzhoahgvpfragrxauqq/luXifer_Prefix.pch -c /Users/alex/Desktop/luXifer/ANiTunesLibrary.m -o /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesLibrary.o0#
+
+CCompileC build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesPlaylist.o /Users/alex/Desktop/luXifer/ANiTunesPlaylist.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310340492.380602
+e310340492.698034
+r1
+xCompileC
+xbuild/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesPlaylist.o
+x/Users/alex/Desktop/luXifer/ANiTunesPlaylist.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/alex/Desktop/luXifer/ANiTunesPlaylist.m310340492#310340492#0(0"0(0#0#46"/Users/alex/Desktop/luXifer/ANiTunesPlaylist.m8626550368#1353"    cd /Users/alex/Desktop/luXifer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-generated-files.hmap -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-own-target-headers.hmap -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-all-target-headers.hmap -iquote /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-project-headers.hmap -F/Users/alex/Desktop/luXifer/build/Debug -I/Users/alex/Desktop/luXifer/build/Debug/include -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/DerivedSources/x86_64 -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/luXifer_Prefix-eghhlvrvggzhoahgvpfragrxauqq/luXifer_Prefix.pch -c /Users/alex/Desktop/luXifer/ANiTunesPlaylist.m -o /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesPlaylist.o0#
+
+CCompileC build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesTrack.o /Users/alex/Desktop/luXifer/ANiTunesTrack.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310341100.608555
+e310341101.282671
+r1
+xCompileC
+xbuild/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesTrack.o
+x/Users/alex/Desktop/luXifer/ANiTunesTrack.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/alex/Desktop/luXifer/ANiTunesTrack.m310341100#310341101#0(0"0(0#0#43"/Users/alex/Desktop/luXifer/ANiTunesTrack.m8621996832#1347"    cd /Users/alex/Desktop/luXifer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-generated-files.hmap -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-own-target-headers.hmap -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-all-target-headers.hmap -iquote /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-project-headers.hmap -F/Users/alex/Desktop/luXifer/build/Debug -I/Users/alex/Desktop/luXifer/build/Debug/include -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/DerivedSources/x86_64 -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/luXifer_Prefix-eghhlvrvggzhoahgvpfragrxauqq/luXifer_Prefix.pch -c /Users/alex/Desktop/luXifer/ANiTunesTrack.m -o /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/ANiTunesTrack.o0#
+
+CCompileC build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/luXifer.o /Users/alex/Desktop/luXifer/luXifer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310354536.727749
+e310354537.416689
+r1
+xCompileC
+xbuild/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/luXifer.o
+x/Users/alex/Desktop/luXifer/luXifer.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/alex/Desktop/luXifer/luXifer.m310354536#310354537#0(0"0(0#0#37"/Users/alex/Desktop/luXifer/luXifer.m3401403401131030528#1335"    cd /Users/alex/Desktop/luXifer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-generated-files.hmap -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-own-target-headers.hmap -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-all-target-headers.hmap -iquote /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-project-headers.hmap -F/Users/alex/Desktop/luXifer/build/Debug -I/Users/alex/Desktop/luXifer/build/Debug/include -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/DerivedSources/x86_64 -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/luXifer_Prefix-eghhlvrvggzhoahgvpfragrxauqq/luXifer_Prefix.pch -c /Users/alex/Desktop/luXifer/luXifer.m -o /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/luXifer.o0#
+
+CLd /Users/alex/Desktop/luXifer/build/Debug/luXifer normal x86_64
+s310354537.416994
+e310354537.660495
+r1
+xLd
+x/Users/alex/Desktop/luXifer/build/Debug/luXifer
+xnormal
+xx86_64
+lSLF07#2@52"Link /Users/alex/Desktop/luXifer/build/Debug/luXifer310354537#310354537#0(0"0(0#0#0"8616804064#465"    cd /Users/alex/Desktop/luXifer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/alex/Desktop/luXifer/build/Debug -F/Users/alex/Desktop/luXifer/build/Debug -filelist /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/Objects-normal/x86_64/luXifer.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/alex/Desktop/luXifer/build/Debug/luXifer0#
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/luXifer_Prefix-eghhlvrvggzhoahgvpfragrxauqq/luXifer_Prefix.pch.gch luXifer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310340489.543852
+e310340491.924884
+r1
+xProcessPCH
+x/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/luXifer_Prefix-eghhlvrvggzhoahgvpfragrxauqq/luXifer_Prefix.pch.gch
+xluXifer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile luXifer_Prefix.pch310340489#310340491#0(0"0(0#0#46"/Users/alex/Desktop/luXifer/luXifer_Prefix.pch8628585920#1246"    cd /Users/alex/Desktop/luXifer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-generated-files.hmap -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-own-target-headers.hmap -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-all-target-headers.hmap -iquote /Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/luXifer-project-headers.hmap -F/Users/alex/Desktop/luXifer/build/Debug -I/Users/alex/Desktop/luXifer/build/Debug/include -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/DerivedSources/x86_64 -I/Users/alex/Desktop/luXifer/build/luXifer.build/Debug/luXifer.build/DerivedSources -c /Users/alex/Desktop/luXifer/luXifer_Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/luXifer_Prefix-eghhlvrvggzhoahgvpfragrxauqq/luXifer_Prefix.pch.gch0#
+
